@@ -1,4 +1,4 @@
-# 🏛️ Hi, I'm wintrover
+# Hi, I'm wintrover
 
 ### Thought Trajectory Architect  
 Designing software with **traceable logic**, **architectural integrity**, and **human-AI decision clarity**.
