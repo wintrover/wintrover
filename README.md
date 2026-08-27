@@ -36,10 +36,6 @@ A deterministic integrity engine for verifying **AI-generated software**.
 
 Axiom turns software claims into **machine-checkable verification results and provenance-bearing evidence**.
 
-### Devlog
-
-An experimental system for connecting **hypotheses, implementation attempts, and evidence**.
-
 ---
 
 ## 🧭 Focus
