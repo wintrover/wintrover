@@ -1,54 +1,52 @@
-# Hi, I'm wintrover
+Hi, I'm wintrover
 
-### Thought Trajectory Architect  
-Designing software with **traceable logic**, **architectural integrity**, and **human-AI decision clarity**.
+Founder of Archright
 
----
+Building Axiom — verification infrastructure for AI-generated software.
 
-## ⚙️ Core Signature
+I work on making AI-generated code traceable, deterministic, and formally verifiable.
 
-```nim
-# Nim 2.0+ mindset:
-# explicit intent, static guarantees, zero-noise execution.
-```
+⚙️ Engineering
 
-- **Language of choice:** **Nim 2.0+** — Python-level fluency with systems-level precision.
-- **Method:** **Vibe Coding** — AI executes; I architect, constrain, and verify.
-- **Direction:** toward **Zero-Exception** systems via effect-aware design and formal reasoning.
+My focus is on the layer between AI code generation and software trust.
 
----
+AI-native software engineering — AI executes; architecture constrains; verification decides.
+Formal verification — Bounded Model Checking, SMT, and theorem proving.
+Deterministic systems — reproducible execution, canonical evidence, and explicit verification boundaries.
+Systems architecture — designing software around explicit invariants and machine-checkable guarantees.
 
-## 🚀 Building
+Primary language: Nim 2.0+
+Verification stack: Z3 · Lean · BMC
 
-I founded **Archright** to turn thought trajectories into verifiable engineering assets.
+🚀 Building
+Archright
 
-- **Organization (Primary):** **[github.com/archright](https://github.com/archright)**
-- **Flagship project:** [Devlog](https://github.com/archright/devlog)  
-  AI-integrated reasoning log engine connecting hypotheses, attempts, and evidence.
-- **Next system:** **Axiom (Upcoming)**  
-  Integrity-first verification core for mission-critical software.
+The organization behind my work in AI-native software reliability and verification.
 
-> **Archright is the center of gravity.**  
-> Personal work and technical direction converge there.
+github.com/archright
 
----
+Axiom
 
-## 🧭 Engineering Focus
+A deterministic integrity engine for verifying AI-generated software.
 
-- Software Architecture
-- AI-Native Tooling
-- Robotics / Defense-grade Reliability
-- Formal Verification Pathways (Z3, Lean, static constraints)
+Axiom is designed to turn software claims into machine-checkable verification results and provenance-bearing evidence.
 
----
+Devlog
 
-## 📫 Connect
+An experimental system for capturing the relationship between hypotheses, implementation attempts, and evidence.
 
-- Blog: [wintrover.github.io](https://wintrover.github.io)
-- Organization: **[github.com/archright](https://github.com/archright)**
-- Email: wintrover@gmail.com
+🧭 Focus
 
----
+AI-generated software reliability
+Formal verification
+Deterministic verification infrastructure
+Software architecture
+Systems reliability
 
-> *“Code is a snapshot.  
-> Thought Trajectory is the asset.”*
+📫 Connect
+
+Blog: wintrover.github.io
+Organization: github.com/archright
+Email: wintrover@gmail.com
+
+Code is a snapshot. Verification is the evidence.
