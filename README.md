@@ -38,16 +38,6 @@ Axiom turns software claims into **machine-checkable verification results and pr
 
 ---
 
-## 🧭 Focus
-
-**AI-generated software reliability**  
-**Formal verification**  
-**Deterministic verification infrastructure**  
-**Software architecture**  
-**Systems reliability**
-
----
-
 ## 📫 Connect
 
 - **Blog:** [wintrover.github.io](https://wintrover.github.io)
